@@ -1,2 +1,2 @@
 # xmonad_solarized
-Basic xmonad,xmobar,dmenu configuration using solarized theme
+Basic xmonad,xmobar,dmenu,urxvt configuration using solarized theme
